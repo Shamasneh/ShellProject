@@ -1,5 +1,9 @@
 #!/bin/bash
 
+#
+# Hi
+#
+
 isValid() {
 	string=$1
 	i=1
